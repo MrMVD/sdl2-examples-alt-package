@@ -1,5 +1,5 @@
 Name: sdl2-examples
-Version: 1.0
+Version: 1.0.1
 Release: alt1
 
 Summary: examples of programs using sdl2
